@@ -8,4 +8,7 @@
 
 # Demo
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/iMRWDEN1K8Q/mq2.jpg?sqp=CJCnpJAG&rs=AOn4CLB6vKS5FZSx0p7PbH8hjQVIwKkOAA)](https://youtu.be/iMRWDEN1K8Q)
+
+
+https://github.com/timllin/virtual_try_on_dls/assets/63314502/36e1722c-62a3-4608-a46d-ac50cfd2438c
+
